@@ -1,0 +1,5 @@
+streamlit
+pyngrok
+tensorflow        # or any other library you use
+numpy
+pillow
